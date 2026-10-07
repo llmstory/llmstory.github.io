@@ -1,0 +1,1 @@
+{"default_view":"dual-judge-average","average":{"id":"dual-judge-average","name":"两评委平均 · 各50%","judge_labels":["DeepSeek","MiMo"],"weights":[0.5,0.5],"basis":"mean_of_current_judge_display_scores","judge_ids":["judge-1","judge-2"]}}
